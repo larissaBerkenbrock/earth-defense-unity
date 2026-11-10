@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+guid: b3ce7bb0fffe19e4ca5ab5e44ed16cb3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7067174570937772839
+    second: missao concluida_0
+  - first:
+      213: -2959294029706631571
+    second: missao concluida_1
+  - first:
+      213: 5542002031837360765
+    second: missao concluida_2
+  - first:
+      213: 2764298497852262790
+    second: missao concluida_3
+  - first:
+      213: -525640764887171927
+    second: missao concluida_4
+  - first:
+      213: -7956711989112900234
+    second: missao concluida_5
+  - first:
+      213: 822969538915994305
+    second: missao concluida_6
+  - first:
+      213: 6549344463955229611
+    second: missao concluida_7
+  - first:
+      213: 7774111651921325127
+    second: missao concluida_8
+  - first:
+      213: 4016918634048948158
+    second: missao concluida_9
+  - first:
+      213: 5231351920318742809
+    second: missao concluida_10
+  - first:
+      213: 1706428928964283274
+    second: missao concluida_11
+  - first:
+      213: -1257130545802292837
+    second: missao concluida_12
+  - first:
+      213: -8287495717395795822
+    second: missao concluida_13
+  - first:
+      213: 6951142753763431578
+    second: missao concluida_14
+  - first:
+      213: 1922890799243993743
+    second: missao concluida_15
+  - first:
+      213: -6509131355195777764
+    second: missao concluida_16
+  - first:
+      213: -5130708010479062243
+    second: missao concluida_17
+  - first:
+      213: 4979966042396480734
+    second: missao concluida_18
+  - first:
+      213: -4009787757447411255
+    second: missao concluida_19
+  - first:
+      213: 4258014826913116312
+    second: missao concluida_20
+  - first:
+      213: -6463333290210047916
+    second: missao concluida_21
+  - first:
+      213: -5217799518118064631
+    second: missao concluida_22
+  - first:
+      213: 8849298581006799474
+    second: missao concluida_23
+  - first:
+      213: -8366188324147436667
+    second: missao concluida_24
+  - first:
+      213: -2529973043855793281
+    second: missao concluida_25
+  - first:
+      213: -614626521470255623
+    second: missao concluida_26
+  - first:
+      213: -3075460924642011148
+    second: missao concluida_27
+  - first:
+      213: 1019564324458331047
+    second: missao concluida_28
+  - first:
+      213: -815756695064695196
+    second: missao concluida_29
+  - first:
+      213: 7902017746472998126
+    second: missao concluida_30
+  - first:
+      213: -3132702732930822306
+    second: missao concluida_31
+  - first:
+      213: -4146268388608281234
+    second: missao concluida_32
+  - first:
+      213: -1182384302188743753
+    second: missao concluida_33
+  - first:
+      213: 7639002206389366178
+    second: missao concluida_34
+  - first:
+      213: -5898804379521090236
+    second: missao concluida_35
+  - first:
+      213: 1198328950314040596
+    second: missao concluida_36
+  - first:
+      213: 1378117186366396528
+    second: missao concluida_37
+  - first:
+      213: -5649490303252937128
+    second: missao concluida_38
+  - first:
+      213: -8012497885445937085
+    second: missao concluida_39
+  - first:
+      213: 4004402620272273353
+    second: missao concluida_40
+  - first:
+      213: 7875788514877215435
+    second: missao concluida_41
+  - first:
+      213: 4495469067948346039
+    second: missao concluida_42
+  - first:
+      213: 7702675991521885423
+    second: missao concluida_43
+  - first:
+      213: -7256727801312796446
+    second: missao concluida_44
+  - first:
+      213: -2376902911770697464
+    second: missao concluida_45
+  - first:
+      213: -4344100715271867044
+    second: missao concluida_46
+  - first:
+      213: 2873155578909279792
+    second: missao concluida_47
+  - first:
+      213: 4209655564138746173
+    second: missao concluida_48
+  - first:
+      213: 9219205379013930740
+    second: missao concluida_49
+  - first:
+      213: 4654846768466523725
+    second: missao concluida_50
+  - first:
+      213: 2979717073614163028
+    second: missao concluida_51
+  - first:
+      213: 4770599729978429991
+    second: missao concluida_52
+  - first:
+      213: -7509244844954311675
+    second: missao concluida_53
+  - first:
+      213: 954241148734742092
+    second: missao concluida_54
+  - first:
+      213: -8256989130145252451
+    second: missao concluida_55
+  - first:
+      213: 2453731729479621829
+    second: missao concluida_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: missao concluida_0
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 565
+        width: 363
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d49495db2a5ced90800000000000000
+      internalID: -7067174570937772839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missao concluida_7
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 740
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babf8bd0712f3ea50800000000000000
+      internalID: 6549344463955229611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missao concluida_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 569
+        width: 350
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2907d07dd86ecfc80800000000000000
+      internalID: -8287495717395795822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missao concluida_17
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 533
+        width: 357
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13f4258f301cc8b0800000000000000
+      internalID: -5130708010479062243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missao concluida_37
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 85
+        width: 383
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078da38874e002310800000000000000
+      internalID: 1378117186366396528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missao concluida_40
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 124
+        width: 385
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7e8f687fe729730800000000000000
+      internalID: 4004402620272273353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missao concluida_43
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 128
+        width: 361
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec7796f00765ea60800000000000000
+      internalID: 7702675991521885423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missao concluida_51
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 128
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c40f724e41a5920800000000000000
+      internalID: 2979717073614163028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d4f05bd5c36a7544bae1fba912bc3da9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      missao concluida_0: -7067174570937772839
+      missao concluida_1: -2959294029706631571
+      missao concluida_10: 5231351920318742809
+      missao concluida_11: 1706428928964283274
+      missao concluida_12: -1257130545802292837
+      missao concluida_13: -8287495717395795822
+      missao concluida_14: 6951142753763431578
+      missao concluida_15: 1922890799243993743
+      missao concluida_16: -6509131355195777764
+      missao concluida_17: -5130708010479062243
+      missao concluida_18: 4979966042396480734
+      missao concluida_19: -4009787757447411255
+      missao concluida_2: 5542002031837360765
+      missao concluida_20: 4258014826913116312
+      missao concluida_21: -6463333290210047916
+      missao concluida_22: -5217799518118064631
+      missao concluida_23: 8849298581006799474
+      missao concluida_24: -8366188324147436667
+      missao concluida_25: -2529973043855793281
+      missao concluida_26: -614626521470255623
+      missao concluida_27: -3075460924642011148
+      missao concluida_28: 1019564324458331047
+      missao concluida_29: -815756695064695196
+      missao concluida_3: 2764298497852262790
+      missao concluida_30: 7902017746472998126
+      missao concluida_31: -3132702732930822306
+      missao concluida_32: -4146268388608281234
+      missao concluida_33: -1182384302188743753
+      missao concluida_34: 7639002206389366178
+      missao concluida_35: -5898804379521090236
+      missao concluida_36: 1198328950314040596
+      missao concluida_37: 1378117186366396528
+      missao concluida_38: -5649490303252937128
+      missao concluida_39: -8012497885445937085
+      missao concluida_4: -525640764887171927
+      missao concluida_40: 4004402620272273353
+      missao concluida_41: 7875788514877215435
+      missao concluida_42: 4495469067948346039
+      missao concluida_43: 7702675991521885423
+      missao concluida_44: -7256727801312796446
+      missao concluida_45: -2376902911770697464
+      missao concluida_46: -4344100715271867044
+      missao concluida_47: 2873155578909279792
+      missao concluida_48: 4209655564138746173
+      missao concluida_49: 9219205379013930740
+      missao concluida_5: -7956711989112900234
+      missao concluida_50: 4654846768466523725
+      missao concluida_51: 2979717073614163028
+      missao concluida_52: 4770599729978429991
+      missao concluida_53: -7509244844954311675
+      missao concluida_54: 954241148734742092
+      missao concluida_55: -8256989130145252451
+      missao concluida_56: 2453731729479621829
+      missao concluida_6: 822969538915994305
+      missao concluida_7: 6549344463955229611
+      missao concluida_8: 7774111651921325127
+      missao concluida_9: 4016918634048948158
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

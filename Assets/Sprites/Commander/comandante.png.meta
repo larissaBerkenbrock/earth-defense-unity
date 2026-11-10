@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: e4334263d9684934088c4fc02fb3e0ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3737733775919135835
+    second: generated-image_0
+  - first:
+      213: 5710295113641778788
+    second: generated-image_1
+  - first:
+      213: 464472581215843514
+    second: generated-image_2
+  - first:
+      213: 7346605512826077648
+    second: generated-image_3
+  - first:
+      213: 2601405054722144402
+    second: generated-image_4
+  - first:
+      213: -2215459600330842096
+    second: generated-image_5
+  - first:
+      213: -7781389297822052820
+    second: generated-image_6
+  - first:
+      213: 232973191425348181
+    second: generated-image_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "cabe\xE7a"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 746
+        width: 193
+        height: 228
+      alignment: 9
+      pivot: {x: 0.6414854, y: 0.0688423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a34c552fe6e02cc0800000000000000
+      internalID: -3737733775919135835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronco
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 726
+        width: 218
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e5443c62b0f3f40800000000000000
+      internalID: 5710295113641778788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bra\xE7o esquerdo"
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 720
+        width: 141
+        height: 264
+      alignment: 9
+      pivot: {x: 0.5129109, y: 0.9551112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4774b0a53227600800000000000000
+      internalID: 464472581215843514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bra\xE7o direito"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 388
+        width: 136
+        height: 264
+      alignment: 9
+      pivot: {x: 0.54015696, y: 0.94132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1cce83ac264f560800000000000000
+      internalID: 7346605512826077648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mao esquerda
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 449
+        width: 146
+        height: 136
+      alignment: 9
+      pivot: {x: 0.16334262, y: 0.19213082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2987e9b4d1c0a1420800000000000000
+      internalID: 2601405054722144402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mao direita
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 449
+        width: 141
+        height: 136
+      alignment: 9
+      pivot: {x: 0.84859604, y: 0.19213082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0102d044b3b1141e0800000000000000
+      internalID: -2215459600330842096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perna esquerda
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 39
+        width: 126
+        height: 275
+      alignment: 9
+      pivot: {x: 0.4277603, y: 0.97000575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e4a4449a3f20490800000000000000
+      internalID: -7781389297822052820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perna direita
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 40
+        width: 126
+        height: 274
+      alignment: 9
+      pivot: {x: 0.42776003, y: 0.9717211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552d81d12efab3300800000000000000
+      internalID: 232973191425348181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8abbcbf8c25b5ed4895f05fdbfd8b62c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "bra\xE7o direito": 7346605512826077648
+      "bra\xE7o esquerdo": 464472581215843514
+      "cabe\xE7a": -3737733775919135835
+      mao direita: -2215459600330842096
+      mao esquerda: 2601405054722144402
+      perna direita: 232973191425348181
+      perna esquerda: -7781389297822052820
+      tronco: 5710295113641778788
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
